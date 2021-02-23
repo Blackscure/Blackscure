@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Gude me project
+- 🔭 I’m currently working on Guide me project
 - 🌱 I’m currently learning Flutter, dart,
 - 👯 I’m looking to collaborate on Guideme
 - 💬 Ask me about Java, Android, Js, Mysql, Php, React
