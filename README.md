@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Guideme
 - 💬 Ask me about Java, Android, Js, Mysql, Php, React
 - 📫 How to reach me: wekesabuyahi@gmail.com
-- 😄 Pronouns: Icon
+- 😄 Pronouns: I
 - ⚡ Fun fact: Coffee < 3
 
