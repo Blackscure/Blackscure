@@ -7,5 +7,5 @@
 - 💬 Ask me about Java, Android, Js, Mysql, Php, React
 - 📫 How to reach me: wekesabuyahi@gmail.com
 - 😄 Pronouns: I
-- ⚡ Fun fact: Coffee < 3
+- ⚡ Fun fact: Every iPhone advertisement has the time set to 9:41.
 
