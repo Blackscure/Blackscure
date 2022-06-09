@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Guide me project
 - 🌱 I’m currently learning  Swift
-- 👯 I’m looking to collaborate on Guideme
+- 👯 I’m looking to collaborate with
 - 💬 Ask me about Java, Android, Js, Mysql, Php, React
 - 📫 How to reach me: wekesabuyahi@gmail.com
 - 😄 Pronouns: I
